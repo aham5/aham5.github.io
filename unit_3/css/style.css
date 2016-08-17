@@ -1,6 +1,6 @@
 style.css
 body {
-	background-image: src="images\desertroad.jpg"
+	background-image: src="images/desertroad.jpg"
 	text-align: center;
 }
 h1 {
@@ -13,11 +13,11 @@ p {
 }
 ul {
 	color:000000;
-	text-align: right;
+	text-align: left;
 }
 li {
 	color:000000;
-	text-align: right;
+	text-align: left;
 }
 
 #slogan {
