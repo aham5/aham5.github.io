@@ -1,19 +1,23 @@
 style.css
 body {
-	background-image: src="C:\Users\Alli\Desktop\aham5.github.io\unit_3\images"
+	background-image: src="images\desertroad.jpg"
 	text-align: center;
 }
 h1 {
 	color:000000;
+	text-align: center;
 }
 p {
 	color:000000;
+	text-align: center;
 }
 ul {
 	color:000000;
+	text-align: right;
 }
 li {
 	color:000000;
+	text-align: right;
 }
 
 #slogan {
