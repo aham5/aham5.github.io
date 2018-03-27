@@ -1,3 +1,3 @@
 # aham5.github.io
 
-h 
+This is a practice site to learn Github and programming.
