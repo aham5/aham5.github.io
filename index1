@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<title>Scheduler</title>
+</head>
+<body>
+	<h1>Scheduler</h1>
+	<p ID="slogan">To Adventure.</p>
+	<p> Talk about business- history, story, etc.</p>
+	<ul> 
+		<li>Long Term</li>
+		<li>Budget</li>
+	<p> Contact me: <a href= "mailto:alli.hamel@gmail.com">alli.hamel@gmail.com</a>
+</body>
+</html>
